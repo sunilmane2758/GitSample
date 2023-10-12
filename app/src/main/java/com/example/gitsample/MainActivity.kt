@@ -3,8 +3,13 @@ package com.example.gitsample
 /*
 * Base Version
 * Author Sunil Mane
+<<<<<<< HEAD
 * Sunil Class
 *
+=======
+*
+* Master class
+>>>>>>> master
 * */
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
