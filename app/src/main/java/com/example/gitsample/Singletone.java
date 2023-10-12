@@ -5,10 +5,7 @@ package com.example.gitsample;
  sunil class added singltone
 *
 * */
-=======
-Master class
- */
 
->>>>>>> master
+
 public class Singletone {
 }
